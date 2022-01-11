@@ -1,0 +1,74 @@
+body {
+  font-family: monospace;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #212529;
+}
+
+.ig {
+  width: 30px;
+  height: 30px;
+}
+.ig:hover {
+  background-color: #ffc107;
+  border-radius: 30%;
+}
+.ig:active {
+  width: 35px;
+  height: 35px;
+}
+.fb {
+  width: 40px;
+  height: 40px;
+}
+.fb:hover {
+  background-color: #ffc107;
+  border-radius: 100%;
+}
+.fb:active {
+  width: 35px;
+  height: 35px;
+}
+.git {
+  width: 30px;
+  height: 30px;
+}
+.git:hover {
+  background-color: #ffc107;
+  border-radius: 100%;
+}
+.git:active {
+  width: 35px;
+  height: 35px;
+}
+#home {
+  background-color: #212529;
+}
+#about {
+  padding-bottom: 5rem;
+}
+#contact {
+  padding-bottom: 10rem;
+}
+
+section {
+  padding-top: 8rem;
+}
+
+.caption {
+  text-align: center;
+}
+
+#navbarNav ul li a:hover {
+  color: yellow;
+  font-size: 18px;
+  font-style: bold;
+}
+
+#navbarNav ul li a:active {
+  font-size: 20px;
+  background-color: teal;
+  border-radius: 50%;
+}
